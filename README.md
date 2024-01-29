@@ -14,3 +14,5 @@ Both algorithms tested using [COCO](http://numbbo.github.io/coco/) with Rust bin
 
 #### BBOB suite experiment results
 ![](https://i.ibb.co/m6714D3/data.png)
+
+All experiment data in exdata/ppdata/index.html
